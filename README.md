@@ -20,5 +20,5 @@
 ### Circuit Diagram (<a target="_blank" href="https://wokwi.com/projects/339800239192932947">Wokwi</a>)
 <img src="circuit.jpeg" />
 
-## GDS (HTML Render)
+## GDS (<a target="_blank" href="https://shahzaibk23.github.io/tinytapeout-barrel-shifter/gds.html">HTML Render</a>)
 <img src="gds_render.svg" />
