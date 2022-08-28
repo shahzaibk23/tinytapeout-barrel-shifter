@@ -1,6 +1,6 @@
 # TinyTapeout Barrel Shifter
 
-4-bit Barrel Shifter made via <a href="https://tintapeout.com">TinyTapout</a> toolchain.
+4-bit Barrel Shifter made via <a target="_blank" href="https://tintapeout.com">TinyTapout</a> toolchain.
 
 ### Config
 | PIN | mapped I/O | Wire color |
@@ -14,8 +14,11 @@
 | IN6 | sel(1) | Orange |
 | IN7 | 0 | Brown |
 
-### Circuit Diagram
+### Reference Diagram
+<img src="block.png" width="50%" />
+
+### Circuit Diagram (<a target="_blank" href="https://wokwi.com/projects/339800239192932947">Wokwi</a>)
 <img src="circuit.jpeg" />
 
-## GDS
+## GDS (HTML Render)
 <img src="gds_render.svg" />
