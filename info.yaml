@@ -6,18 +6,18 @@
 #
 # This will be automatically collected and used to make a datasheet for the chip.
 project: 
-  author:       "Shahzaib Kashif"      # Your name
-  title:        "Barrel Shifter"      # Project title
-  description:  "shifts the data n times, where n is the input provided via inputs"      # Short description of what your project does
-  how_it_works: "muxes connect to output"      # Longer description of how the project works
-  how_to_test:  "give input through input ports and toggle select pins to visualise shifting"      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
-  external_hw:  "None"      # Describe any external hardware needed
-  doc_link:     "https://github.com/shahzaibk23/tinytapeout-barrel-shifter/blob/main/README.md"      # URL to longer form documentation, eg the README.md in your repository
-  clock_hz:     0       # Clock frequency in Hz (if required)
-  language:     "wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  wokwi_id:     341167691532337747       # the wokwi ID
-  picture:      "circuit.jpeg"      # relative path to a picture in your repository
-  inputs:               # a description of what the inputs do
+  author:       "Shahzaib Kashif"
+  title:        "Barrel Shifter"
+  description:  "shifts the data n times, where n is the input provided via inputs"
+  how_it_works: "muxes connect to output"
+  how_to_test:  "give input through input ports and toggle select pins to visualise shifting"
+  external_hw:  "None"
+  doc_link:     "https://github.com/shahzaibk23/tinytapeout-barrel-shifter/blob/main/README.md"
+  clock_hz:     0
+  language:     "wokwi"
+  wokwi_id:     341167691532337747
+  picture:      "circuit.jpeg"
+  inputs:
     - input 1
     - input 2
     - input 3
